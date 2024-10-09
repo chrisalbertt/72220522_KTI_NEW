@@ -9,63 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SampleSecureWeb
 build_property.RootNamespace = SampleSecureWeb
-build_property.ProjectDir = C:\Users\ASUS\Documents\72220522 tugas\Smst 5\KTI\SampleSecureWeb\
+build_property.ProjectDir = C:\Users\ASUS\Documents\72220522 tugas\Smst 5\KTI\72220522_KTI_NEW\SampleSecureWeb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ASUS\Documents\72220522 tugas\Smst 5\KTI\SampleSecureWeb
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\Documents\72220522 tugas\Smst 5\KTI\72220522_KTI_NEW\SampleSecureWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/SampleSecureWeb/Views/Account/GantiPassword.cshtml]
+[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/72220522_KTI_NEW/SampleSecureWeb/Views/Account/GantiPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxHYW50aVBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/SampleSecureWeb/Views/Account/Login.cshtml]
+[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/72220522_KTI_NEW/SampleSecureWeb/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/SampleSecureWeb/Views/Account/Register.cshtml]
+[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/72220522_KTI_NEW/SampleSecureWeb/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/SampleSecureWeb/Views/Home/About.cshtml]
+[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/72220522_KTI_NEW/SampleSecureWeb/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/SampleSecureWeb/Views/Home/Index.cshtml]
+[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/72220522_KTI_NEW/SampleSecureWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/SampleSecureWeb/Views/Home/Privacy.cshtml]
+[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/72220522_KTI_NEW/SampleSecureWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/SampleSecureWeb/Views/Shared/Error.cshtml]
+[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/72220522_KTI_NEW/SampleSecureWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/SampleSecureWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/72220522_KTI_NEW/SampleSecureWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/SampleSecureWeb/Views/Student/Create.cshtml]
+[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/72220522_KTI_NEW/SampleSecureWeb/Views/Student/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/SampleSecureWeb/Views/Student/Index.cshtml]
+[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/72220522_KTI_NEW/SampleSecureWeb/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/SampleSecureWeb/Views/_ViewImports.cshtml]
+[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/72220522_KTI_NEW/SampleSecureWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/SampleSecureWeb/Views/_ViewStart.cshtml]
+[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/72220522_KTI_NEW/SampleSecureWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/SampleSecureWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/ASUS/Documents/72220522 tugas/Smst 5/KTI/72220522_KTI_NEW/SampleSecureWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k6c9vpadcu

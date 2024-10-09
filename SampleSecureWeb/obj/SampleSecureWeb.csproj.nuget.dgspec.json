@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Documents\\72220522 tugas\\Smst 5\\KTI\\SampleSecureWeb\\SampleSecureWeb.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\72220522 tugas\\Smst 5\\KTI\\72220522_KTI_NEW\\SampleSecureWeb\\SampleSecureWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Documents\\72220522 tugas\\Smst 5\\KTI\\SampleSecureWeb\\SampleSecureWeb.csproj": {
+    "C:\\Users\\ASUS\\Documents\\72220522 tugas\\Smst 5\\KTI\\72220522_KTI_NEW\\SampleSecureWeb\\SampleSecureWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\72220522 tugas\\Smst 5\\KTI\\SampleSecureWeb\\SampleSecureWeb.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\72220522 tugas\\Smst 5\\KTI\\72220522_KTI_NEW\\SampleSecureWeb\\SampleSecureWeb.csproj",
         "projectName": "SampleSecureWeb",
-        "projectPath": "C:\\Users\\ASUS\\Documents\\72220522 tugas\\Smst 5\\KTI\\SampleSecureWeb\\SampleSecureWeb.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\72220522 tugas\\Smst 5\\KTI\\72220522_KTI_NEW\\SampleSecureWeb\\SampleSecureWeb.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Documents\\72220522 tugas\\Smst 5\\KTI\\SampleSecureWeb\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\72220522 tugas\\Smst 5\\KTI\\72220522_KTI_NEW\\SampleSecureWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
