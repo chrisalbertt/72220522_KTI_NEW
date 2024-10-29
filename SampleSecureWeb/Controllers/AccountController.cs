@@ -167,5 +167,12 @@ namespace SampleSecureWeb.Controllers
                 Regex.IsMatch(password, @"[a-z]");
 
         }
+
+        public async Task<ActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("Index","Home");
+        }
+        
     }
 }
